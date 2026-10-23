@@ -1,0 +1,4 @@
+name: voice-reminder
+version: 0.1.0
+description: Reminds the agent of SOUL.md's Voice section on every turn.
+author: QuillDev
